@@ -27,10 +27,10 @@ export default function Home() {
         </div>
       </section>
       <Image
-        src="/assets/images/onboarding-patient.png"
+        src="/assets/images/onboarding-img.png"
         alt="patient"
-        height={1000}
-        width={100}
+        height={1192}
+        width={1025}
         className="side-img max-w-[50%]"
       />
     </div>
